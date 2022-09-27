@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: black;
+}
+
+.container-fluid {
+    background-color: bisque;
+}
+
+.col-8 {
+    background-color: gainsboro;
+}
+
+.col-4 {
+    background-color: antiquewhite;
+}
+
+.linkedin {
+    padding-right: 55%;
+}
+
+.login {
+    padding-right: 0cm;
+}
+
+.col-2 {
+    background-color: antiquewhite;
+}
